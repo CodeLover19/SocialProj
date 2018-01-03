@@ -1,2 +1,2 @@
-# SocialProj https://codelover19.github.io/SocialProj/
-Social Media Project Made With HTML &amp; CSS 
+# SocialProj 
+Social Media Project Made With HTML &amp; CSS https://codelover19.github.io/SocialProj/
